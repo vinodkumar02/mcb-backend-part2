@@ -1,0 +1,9 @@
+.settings/
+data/
+.classpath
+.factorypath
+LOG_PATH_IS_UNDEFINED/
+.project/
+.project
+.springBeans
+target/
